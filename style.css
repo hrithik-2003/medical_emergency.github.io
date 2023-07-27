@@ -5,6 +5,7 @@ body {
     margin: 0px;
     padding: 0;
     overflow-x: hidden;
+    display : block;
   }
   
   .container {
@@ -186,6 +187,7 @@ body {
         margin: 0px;
         padding: 0;
         overflow-x: hidden;
+        display : block;
     }
     .header-text {
         font-size: .7rem;
