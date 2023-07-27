@@ -181,6 +181,11 @@ body {
 
     body {
         font-size: .6rem;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0px;
+        padding: 0;
+        overflow-x: hidden;
     }
     .header-text {
         font-size: .7rem;
